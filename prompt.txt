@@ -1,0 +1,4 @@
+Generate a professional social media post for a SAAS business. The post should be clear, engaging, and value-driven for B2B audience.
+
+Input: Topic
+Output: Post + Hook + CTA + Hashtags
